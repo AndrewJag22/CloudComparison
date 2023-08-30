@@ -1,0 +1,124 @@
+------------------------------------------------------- OUTPUT -------------------------------------------------------
+
+Tasks not sent because device died (low energy)                         :                   0 % (0 tasks)
+Tasks sent from edge devices                                            :                 100 % (58000 among 58000 generated tasks)
+-------------------------------------All values below are based on the sent tasks-------------------------------------
+Total tasks execution time                                              :                9200 seconds
+Average task execution time                                             :              0.1586 seconds
+Total waiting time (from submitting the tasks to when execution started):                   0 seconds
+Average task waiting time                                               :                   0 seconds
+Tasks successfully executed                                             :                 100 % (58000 among 58000 sent tasks)
+Tasks failures
+                              Not executed due to resource unavailablity:                   0 % (0 tasks)
+                                   Executed but failed due to high delay:                   0 % (0 tasks from 58000 successfully sent tasks)
+               Tasks execution results not returned due to devices death:                   0 % (0 tasks)
+            Tasks execution results not returned due to devices mobility:                   0 % (0 tasks)
+Tasks executed on each level                                            :Cloud=         58000 tasks (where 58000 were successfully executed )
+                                                                          Edge=             0 tasks (where 0 were successfully executed )
+                                                                          Mist=             0 tasks (where 0 were successfully executed )
+Network usage                                                           :              5811.2 seconds (The total traffic: 72640 (MBytes) )
+                                                                           Wan=        5811.2 seconds (100 % of total usage, WAN used when downloading containers=0 % of WAN usage )
+                                                                           Man=             0 seconds (0 % of total usage, MAN used when downloading containers=0 % of MAN usage )
+                                                                           Lan=             0 seconds (0 % of total usage, LAN used when downloading containers=NaN % of LAN usage )
+Average transfer speed                                                  :                 100 Mbps  
+Average CPU utilization                                                 :              0.0147 %
+Average CPU utilization per level                                       :Cloud=        7.4194 %
+                                                                          Edge=             0 %
+                                                                          Mist=             0 %
+Energy consumption                                                      :            424.3223 Wh (Average: 0.8402 Wh/data center(or device))
+                                                                        :                        (Average: 0.0073 Wh/task)
+Energy Consumption per level                                            :Cloud=       73.8044 Wh (Average: 73.8044 Wh/data center)
+                                                                          Edge=       68.8889 Wh (Average: 17.2222 Wh/data center)
+                                                                          Mist=       281.629 Wh (Average: 0.5633 Wh/edge device)
+Energy Consumption per network                                          :  WAN=     1726.2549 Wh
+                                                                           MAN=             0 Wh 
+                                                                           LAN=             0 Wh 
+Energy Consumption per technology                                       : WiFi=             0 Wh
+                                                                      Cellular=     1726.2549 Wh 
+                                                                      Ethernet=             0 Wh 
+Dead edge devices due to battery drain                                  :                   0 devices (Among 500 devices with batteries (0 %))
+Average remaining power (devices with batteries that are still alive)   :             66.3017 Wh (Average: 99.1316 %)
+
+
+------------------------------------------------------- OUTPUT -------------------------------------------------------
+
+Tasks not sent because device died (low energy)                         :                   0 % (0 tasks)
+Tasks sent from edge devices                                            :                 100 % (58000 among 58000 generated tasks)
+-------------------------------------All values below are based on the sent tasks-------------------------------------
+Total tasks execution time                                              :           9171.8875 seconds
+Average task execution time                                             :              0.1587 seconds
+Total waiting time (from submitting the tasks to when execution started):             2723.25 seconds
+Average task waiting time                                               :              0.0471 seconds
+Tasks successfully executed                                             :             99.2224 % (57549 among 58000 sent tasks)
+Tasks failures
+                              Not executed due to resource unavailablity:                   0 % (0 tasks)
+                                   Executed but failed due to high delay:              0.4241 % (246 tasks from 58000 successfully sent tasks)
+               Tasks execution results not returned due to devices death:                   0 % (0 tasks)
+            Tasks execution results not returned due to devices mobility:              0.3534 % (205 tasks)
+Tasks executed on each level                                            :Cloud=             0 tasks (where 0 were successfully executed )
+                                                                          Edge=         58000 tasks (where 57549 were successfully executed )
+                                                                          Mist=             0 tasks (where 0 were successfully executed )
+Network usage                                                           :           5810.3416 seconds (The total traffic: 72629.27 (MBytes) )
+                                                                           Wan=             0 seconds (0 % of total usage, WAN used when downloading containers=0 % of WAN usage )
+                                                                           Man=             0 seconds (0 % of total usage, MAN used when downloading containers=0 % of MAN usage )
+                                                                           Lan=     5810.3416 seconds (100 % of total usage, LAN used when downloading containers=0 % of LAN usage )
+Average transfer speed                                                  :                 100 Mbps  
+Average CPU utilization                                                 :              0.2929 %
+Average CPU utilization per level                                       :Cloud=             0 %
+                                                                          Edge=       36.9834 %
+                                                                          Mist=             0 %
+Energy consumption                                                      :            363.2462 Wh (Average: 0.7193 Wh/data center(or device))
+                                                                        :                        (Average: 0.0063 Wh/task)
+Energy Consumption per level                                            :Cloud=             0 Wh (Average: 0 Wh/data center)
+                                                                          Edge=       81.6276 Wh (Average: 20.4069 Wh/data center)
+                                                                          Mist=      281.6185 Wh (Average: 0.5632 Wh/edge device)
+Energy Consumption per network                                          :  WAN=             0 Wh
+                                                                           MAN=             0 Wh 
+                                                                           LAN=    15228.2549 Wh 
+Energy Consumption per technology                                       : WiFi=             0 Wh
+                                                                      Cellular=    15228.2549 Wh 
+                                                                      Ethernet=             0 Wh 
+Dead edge devices due to battery drain                                  :                   0 devices (Among 500 devices with batteries (0 %))
+Average remaining power (devices with batteries that are still alive)   :             66.3018 Wh (Average: 99.134 %)
+
+
+------------------------------------------------------- OUTPUT -------------------------------------------------------
+
+Tasks not sent because device died (low energy)                         :                   0 % (0 tasks)
+Tasks sent from edge devices                                            :                 100 % (58000 among 58000 generated tasks)
+-------------------------------------All values below are based on the sent tasks-------------------------------------
+Total tasks execution time                                              :            36552.55 seconds
+Average task execution time                                             :              0.6315 seconds
+Total waiting time (from submitting the tasks to when execution started):                   0 seconds
+Average task waiting time                                               :                   0 seconds
+Tasks successfully executed                                             :              11.369 % (6594 among 58000 sent tasks)
+Tasks failures
+                              Not executed due to resource unavailablity:                   0 % (0 tasks)
+                                   Executed but failed due to high delay:             88.4207 % (51284 tasks from 58000 successfully sent tasks)
+               Tasks execution results not returned due to devices death:                   0 % (0 tasks)
+            Tasks execution results not returned due to devices mobility:              0.2103 % (122 tasks)
+Tasks executed on each level                                            :Cloud=             0 tasks (where 0 were successfully executed )
+                                                                          Edge=             0 tasks (where 0 were successfully executed )
+                                                                          Mist=         58000 tasks (where 6594 were successfully executed )
+Network usage                                                           :             12.5242 seconds (The total traffic: 2035.18 (MBytes) )
+                                                                           Wan=             0 seconds (0 % of total usage, WAN used when downloading containers=0 % of WAN usage )
+                                                                           Man=             0 seconds (0 % of total usage, MAN used when downloading containers=0 % of MAN usage )
+                                                                           Lan=       12.5242 seconds (100 % of total usage, LAN used when downloading containers=0 % of LAN usage )
+Average transfer speed                                                  :                1300 Mbps  
+Average CPU utilization                                                 :              1.4594 %
+Average CPU utilization per level                                       :Cloud=             0 %
+                                                                          Edge=             0 %
+                                                                          Mist=         1.474 %
+Energy consumption                                                      :            370.0024 Wh (Average: 0.7327 Wh/data center(or device))
+                                                                        :                        (Average: 0.0064 Wh/task)
+Energy Consumption per level                                            :Cloud=             0 Wh (Average: 0 Wh/data center)
+                                                                          Edge=       68.8889 Wh (Average: 17.2222 Wh/data center)
+                                                                          Mist=      301.1135 Wh (Average: 0.6022 Wh/edge device)
+Energy Consumption per network                                          :  WAN=             0 Wh
+                                                                           MAN=             0 Wh 
+                                                                           LAN=        1.8497 Wh 
+Energy Consumption per technology                                       : WiFi=        1.8497 Wh
+                                                                      Cellular=             0 Wh 
+                                                                      Ethernet=             0 Wh 
+Dead edge devices due to battery drain                                  :                   0 devices (Among 500 devices with batteries (0 %))
+Average remaining power (devices with batteries that are still alive)   :             66.2628 Wh (Average: 99.1143 %)
